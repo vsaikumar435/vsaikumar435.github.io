@@ -1,0 +1,34 @@
+body{
+	background-image: url(background-imagem.jpg);
+}
+h1
+{
+	color: purple;
+	text-align: center;
+	background-color: yellow;
+	border: 5px solid rgba(255,0,0,0.6)
+}
+h2{
+	text-align: center;
+    
+}
+
+a {
+	display: inline-block;
+	color: red;
+
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+img {
+    border-radius: 50%;
+}
+h2{
+	font-size: 30px;
+	font-family:Times new roman;
+
+}
